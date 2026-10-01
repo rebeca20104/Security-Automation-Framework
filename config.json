@@ -1,0 +1,24 @@
+{
+    "application": {
+        "name": "Security Automation Framework",
+        "version": "1.0.0"
+    },
+    "validation": {
+        "enable_ip": true,
+        "enable_domain": true,
+        "enable_url": true,
+        "enable_hash": true,
+        "enable_email": true
+    },
+    "enrichment": {
+        "virustotal_enabled": true
+    },
+    "notification": {
+        "discord_enabled": false,
+        "slack_enabled": false
+    },
+    "thresholds": {
+        "malicious": 5,
+        "suspicious": 1
+    }
+}
