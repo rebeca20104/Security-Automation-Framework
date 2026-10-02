@@ -1,0 +1,10 @@
+{
+    "domain:example.com": {
+        "indicator": "example.com",
+        "type": "domain",
+        "malicious": 0,
+        "suspicious": 0,
+        "harmless": 61,
+        "status": "OK"
+    }
+}

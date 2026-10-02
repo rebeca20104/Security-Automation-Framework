@@ -1,0 +1,21 @@
+{
+    "id": "WAZUH-TEST-001",
+    "timestamp": "2026-10-01T10:00:00+05:30",
+    "rule": {
+        "id": "5710",
+        "level": 10,
+        "description": "sshd: authentication failed",
+        "groups": [
+            "authentication_failed",
+            "sshd"
+        ]
+    },
+    "agent": {
+        "id": "001",
+        "name": "test-linux"
+    },
+    "data": {
+        "srcip": "192.168.1.50",
+        "srcuser": "admin"
+    }
+}
