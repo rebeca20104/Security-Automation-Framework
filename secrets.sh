@@ -1,0 +1,3 @@
+export WAZUH_PASS='KZB71aV?afMS9ynN7zwi0b534lujmlZA'
+export VT_API_KEY='acf87989c432be00b8037dcdc052bf70ec48a35af6441e877f125a12954c6e79'
+export DISCORD_WEBHOOK='https://discord.com/api/webhooks/1554005083589713950/5teiKhACt40vU8ViSvK8VFR081EMaHhj11ruMTN7YE4UdlwjKbgKDUjzJE8qusgnabBO'
